@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Algoriza Framework
 
 Algoriza Framework Description.
@@ -352,3 +353,7 @@ Use hook to any module in views, controller or any place in code
 `See Modules\Widget\Sidebar.md`
 
 -----
+=======
+# cargo
+CARGO
+>>>>>>> 22b52ba36c3750a70becddeb60c5617fe7e70489
